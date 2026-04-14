@@ -1,5 +1,4 @@
 # Virtual-Memory-Management-Simulator
-Virtual Memory Management Simulator demonstrating paging, segmentation, and page replacement algorithms (FIFO, LRU, Optimal)
 
 ## 📖 Overview
 The Virtual Memory Management Simulator is a Python-based project that demonstrates how operating systems efficiently manage memory. It provides a clear understanding of paging, segmentation, and page replacement algorithms through simulation.
